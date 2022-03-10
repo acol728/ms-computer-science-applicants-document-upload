@@ -1,0 +1,22 @@
+{
+  "name": "ms-computer-science-applicants-document-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acol728/ms-computer-science-applicants-document-upload.git"
+  },
+  "author": "Dakota Blank & Adam Collett & Javin Herath & Melissa Olhausen & Ben Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acol728/ms-computer-science-applicants-document-upload/issues"
+  },
+  "homepage": "https://github.com/acol728/ms-computer-science-applicants-document-upload#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
